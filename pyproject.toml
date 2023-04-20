@@ -17,6 +17,7 @@ numpy = "^1.24.2"
 plotly = "^5.14.1"
 kaleido = "0.2.1"
 pyarrow = "^11.0.0"
+scikit-learn = "^1.2.2"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
